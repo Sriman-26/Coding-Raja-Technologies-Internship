@@ -1,0 +1,23 @@
+.myimg {
+    border-radius: 75%;
+    width: 200px;
+}
+
+.background {
+    background-color: lightblue;
+}
+
+h1 {
+    font-weight: 850;
+    font-family: Papyrus, "Fantasy";
+}
+
+#cv-template {
+    display: none;
+    background-color: azure;
+}
+
+#cv-form {
+    background-color: lightgray;
+    border-radius: 9px;
+}
